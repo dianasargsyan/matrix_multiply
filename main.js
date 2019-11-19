@@ -1,5 +1,9 @@
 const utils = require('./utils'); 
 
+let matrix = [['A', 'B', 'C'],
+  ['D', 'E', 'F'],
+  ['G', 'H', 'I']];
+
 let matrix1 = [[1, 2, 3],
   [4, 5, 6],
   [7, 8, 9]];
