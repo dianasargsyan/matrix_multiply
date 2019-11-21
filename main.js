@@ -12,4 +12,5 @@ let matrix2 = [[7, 6, 3],
   [8, 5, 2],
   [9, 4, 1]];
 
-console.log(utils.multiplyMatrices(matrix1, matrix2));
+console.log(utils.printElements(utils.multiplyMatrices(matrix1, matrix2)));
+console.log(utils.printElements(matrix))
